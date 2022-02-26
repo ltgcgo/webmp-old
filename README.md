@@ -1,6 +1,8 @@
 # webmp-old
 A restored copy of Webcirque Media Player 0.28.0.15, last committed on 23 Feb 2021. Works best on Chrome 59+, and latest Opera versions. Licensed under Apache 2.0 License.
 
+Credits to SkyFuInMC and EdChdX.
+
 (Original contents below. All links were expired. Continuing in Glade 0.31)
 
 <b>Download latest build [0.28.0.20190213](https://www.pwcq.ml/projects/webmp/builds/0.28.0.20190213.zip) on our website</b> (_Recommended_)! You can also test it [online](https://webcirque.github.io/webmp).
